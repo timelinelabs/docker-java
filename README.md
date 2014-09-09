@@ -1,6 +1,6 @@
 # Docker - Java
 
-A minimal ubuntu based docker container with [Oracle Java SE JRE](http://www.oracle.com/technetwork/java/javase/downloads) installed.
+A minimal ubuntu based [Docker](http://www.docker.com) container with [Oracle Java SE JRE](http://www.oracle.com/technetwork/java/javase/downloads) installed.
 
 Version tags are based off the installed [Java](http://www.oracle.com/technetwork/java/javase/downloads) version.
 
